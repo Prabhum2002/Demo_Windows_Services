@@ -1,0 +1,10 @@
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\bin\Debug\Demo_WindowsService.exe.config
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\bin\Debug\Demo_WindowsService.exe
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\bin\Debug\Demo_WindowsService.pdb
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.csproj.AssemblyReference.cache
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.csproj.SuggestedBindingRedirects.cache
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.ProjectInstaller.resources
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.csproj.GenerateResource.cache
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.csproj.CoreCompileInputs.cache
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.exe
+D:\PrabhuMS\Demo_WindowsService\Demo_WindowsService\obj\Debug\Demo_WindowsService.pdb
